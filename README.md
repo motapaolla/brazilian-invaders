@@ -1,5 +1,5 @@
 # space_invaders
-final project for Multimedia class
+final project for Multimedia class using Processing language
 
 Members: 
 Lafaiet Castro
