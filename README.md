@@ -1,4 +1,4 @@
-# space_invaders
+# brazilian-invaders
 final project for Multimedia class using Processing language
 
 Members: 
